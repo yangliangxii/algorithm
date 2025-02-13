@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>System.Diagnostics.FileVersionInfo.5.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:System.Diagnostics.Fakes.ShimFileVersionInfo">
+            <summary>System.Diagnostics.FileVersionInfo 的填充码类型</summary>
+        </member>
+        <member name="M:System.Diagnostics.Fakes.ShimFileVersionInfo.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:System.Diagnostics.Fakes.ShimFileVersionInfo.#ctor(System.Diagnostics.FileVersionInfo)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="T:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.CommentsGet">
+            <summary>设置 FileVersionInfo.get_Comments(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.CompanyNameGet">
+            <summary>设置 FileVersionInfo.get_CompanyName(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.FileBuildPartGet">
+            <summary>设置 FileVersionInfo.get_FileBuildPart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.FileDescriptionGet">
+            <summary>设置 FileVersionInfo.get_FileDescription(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.FileMajorPartGet">
+            <summary>设置 FileVersionInfo.get_FileMajorPart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.FileMinorPartGet">
+            <summary>设置 FileVersionInfo.get_FileMinorPart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.FileNameGet">
+            <summary>设置 FileVersionInfo.get_FileName(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.FilePrivatePartGet">
+            <summary>设置 FileVersionInfo.get_FilePrivatePart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.FileVersionGet">
+            <summary>设置 FileVersionInfo.get_FileVersion(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.InternalNameGet">
+            <summary>设置 FileVersionInfo.get_InternalName(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.IsDebugGet">
+            <summary>设置 FileVersionInfo.get_IsDebug(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.IsPatchedGet">
+            <summary>设置 FileVersionInfo.get_IsPatched(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.IsPreReleaseGet">
+            <summary>设置 FileVersionInfo.get_IsPreRelease(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.IsPrivateBuildGet">
+            <summary>设置 FileVersionInfo.get_IsPrivateBuild(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.IsSpecialBuildGet">
+            <summary>设置 FileVersionInfo.get_IsSpecialBuild(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.LanguageGet">
+            <summary>设置 FileVersionInfo.get_Language(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.LegalCopyrightGet">
+            <summary>设置 FileVersionInfo.get_LegalCopyright(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.LegalTrademarksGet">
+            <summary>设置 FileVersionInfo.get_LegalTrademarks(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.OriginalFilenameGet">
+            <summary>设置 FileVersionInfo.get_OriginalFilename(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.PrivateBuildGet">
+            <summary>设置 FileVersionInfo.get_PrivateBuild(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.ProductBuildPartGet">
+            <summary>设置 FileVersionInfo.get_ProductBuildPart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.ProductMajorPartGet">
+            <summary>设置 FileVersionInfo.get_ProductMajorPart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.ProductMinorPartGet">
+            <summary>设置 FileVersionInfo.get_ProductMinorPart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.ProductNameGet">
+            <summary>设置 FileVersionInfo.get_ProductName(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.ProductPrivatePartGet">
+            <summary>设置 FileVersionInfo.get_ProductPrivatePart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.ProductVersionGet">
+            <summary>设置 FileVersionInfo.get_ProductVersion(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.SpecialBuildGet">
+            <summary>设置 FileVersionInfo.get_SpecialBuild(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.AllInstances.ToString01">
+            <summary>设置 FileVersionInfo.ToString(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="M:System.Diagnostics.Fakes.ShimFileVersionInfo.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:System.Diagnostics.Fakes.ShimFileVersionInfo.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.CommentsGet">
+            <summary>设置 FileVersionInfo.get_Comments(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.CompanyNameGet">
+            <summary>设置 FileVersionInfo.get_CompanyName(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.Constructor">
+            <summary>设置 FileVersionInfo.FileVersionInfo(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.FileBuildPartGet">
+            <summary>设置 FileVersionInfo.get_FileBuildPart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.FileDescriptionGet">
+            <summary>设置 FileVersionInfo.get_FileDescription(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.FileMajorPartGet">
+            <summary>设置 FileVersionInfo.get_FileMajorPart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.FileMinorPartGet">
+            <summary>设置 FileVersionInfo.get_FileMinorPart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.FileNameGet">
+            <summary>设置 FileVersionInfo.get_FileName(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.FilePrivatePartGet">
+            <summary>设置 FileVersionInfo.get_FilePrivatePart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.FileVersionGet">
+            <summary>设置 FileVersionInfo.get_FileVersion(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.GetVersionInfoString">
+            <summary>设置 FileVersionInfo.GetVersionInfo(String fileName) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.InternalNameGet">
+            <summary>设置 FileVersionInfo.get_InternalName(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.IsDebugGet">
+            <summary>设置 FileVersionInfo.get_IsDebug(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.IsPatchedGet">
+            <summary>设置 FileVersionInfo.get_IsPatched(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.IsPreReleaseGet">
+            <summary>设置 FileVersionInfo.get_IsPreRelease(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.IsPrivateBuildGet">
+            <summary>设置 FileVersionInfo.get_IsPrivateBuild(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.IsSpecialBuildGet">
+            <summary>设置 FileVersionInfo.get_IsSpecialBuild(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.LanguageGet">
+            <summary>设置 FileVersionInfo.get_Language(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.LegalCopyrightGet">
+            <summary>设置 FileVersionInfo.get_LegalCopyright(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.LegalTrademarksGet">
+            <summary>设置 FileVersionInfo.get_LegalTrademarks(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.OriginalFilenameGet">
+            <summary>设置 FileVersionInfo.get_OriginalFilename(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.PrivateBuildGet">
+            <summary>设置 FileVersionInfo.get_PrivateBuild(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.ProductBuildPartGet">
+            <summary>设置 FileVersionInfo.get_ProductBuildPart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.ProductMajorPartGet">
+            <summary>设置 FileVersionInfo.get_ProductMajorPart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.ProductMinorPartGet">
+            <summary>设置 FileVersionInfo.get_ProductMinorPart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.ProductNameGet">
+            <summary>设置 FileVersionInfo.get_ProductName(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.ProductPrivatePartGet">
+            <summary>设置 FileVersionInfo.get_ProductPrivatePart(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.ProductVersionGet">
+            <summary>设置 FileVersionInfo.get_ProductVersion(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.SpecialBuildGet">
+            <summary>设置 FileVersionInfo.get_SpecialBuild(FileVersionInfo this) 的 填充码</summary>
+        </member>
+        <member name="P:System.Diagnostics.Fakes.ShimFileVersionInfo.ToString">
+            <summary>设置 FileVersionInfo.ToString(FileVersionInfo this) 的 填充码</summary>
+        </member>
+    </members>
+</doc>
